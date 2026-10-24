@@ -2,6 +2,12 @@
 
 대한민국 인디 게임 스튜디오 Future Soul Games의 공식 홈페이지. 운영 사업자는 **꿈모아 (DreamMoa)** 입니다.
 
+공개 홈페이지: https://futuresoulgames.github.io/
+
+저장소: https://github.com/futuresoulgames/futuresoulgames.github.io
+
+2026-10-24 GitHub Pages 공개 및 HTTPS 실제 접속 확인 완료. Search Console은 실제 인증 태그 발급·적용 후 별도 확인이 필요합니다.
+
 ## 구성
 
 - `index.html`: Home / Games / About / Contact
