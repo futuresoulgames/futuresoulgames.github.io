@@ -42,7 +42,7 @@ GitHub Pages용 공개 저장소에 파일을 올리고 **Settings → Pages →
 
 ## Google 인증
 
-`index.html`의 `<head>` 안 `SEARCH_CONSOLE_VERIFICATION` 주석 바로 아래에 Google에서 발급한 실제 HTML 메타 태그 전체를 넣습니다. 현재 실제 인증 태그는 없습니다. 코드를 생성하거나 예시 값을 활성 태그로 넣지 않습니다. 상세 단계는 안내서를 참고하세요.
+`index.html`의 `<head>` 안 `SEARCH_CONSOLE_VERIFICATION` 주석 바로 아래에 사용자가 전달한 실제 Google HTML 인증 태그를 적용했습니다(2026-10-24). 인증 후에도 태그를 유지합니다. Search Console의 확인 버튼으로 최종 소유권 인증을 완료해야 합니다. 상세 단계는 안내서를 참고하세요.
 
 ## 수정
 
